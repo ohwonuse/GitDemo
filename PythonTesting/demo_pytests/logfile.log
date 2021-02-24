@@ -1,0 +1,39 @@
+2021-02-20 17:15:00,240 :INFO :demo_pytests.test_logging :Information statement
+2021-02-20 17:15:00,240 :WARNING :demo_pytests.test_logging :Something is in warning mode
+2021-02-20 17:15:00,240 :ERROR :demo_pytests.test_logging :A major error has happened
+2021-02-20 17:15:00,240 :CRITICAL :demo_pytests.test_logging :Critical issue
+2021-02-20 17:15:37,024 :INFO :demo_pytests.test_logging :Information statement
+2021-02-20 17:15:37,025 :WARNING :demo_pytests.test_logging :Something is in warning mode
+2021-02-20 17:15:37,025 :ERROR :demo_pytests.test_logging :A major error has happened
+2021-02-20 17:15:37,025 :CRITICAL :demo_pytests.test_logging :Critical issue
+2021-02-20 17:16:49,725 :DEBUG :demo_pytests.test_logging :a debug statement is executed
+2021-02-20 17:16:49,734 :INFO :demo_pytests.test_logging :Information statement
+2021-02-20 17:16:49,734 :WARNING :demo_pytests.test_logging :Something is in warning mode
+2021-02-20 17:16:49,734 :ERROR :demo_pytests.test_logging :A major error has happened
+2021-02-20 17:16:49,734 :CRITICAL :demo_pytests.test_logging :Critical issue
+2021-02-20 17:24:05,475 :DEBUG :demo_pytests.test_logging :a debug statement is executed
+2021-02-20 17:24:05,475 :INFO :demo_pytests.test_logging :Information statement
+2021-02-20 17:24:05,476 :WARNING :demo_pytests.test_logging :Something is in warning mode
+2021-02-20 17:24:05,476 :ERROR :demo_pytests.test_logging :A major error has happened
+2021-02-20 17:24:05,476 :CRITICAL :demo_pytests.test_logging :Critical issue
+2021-02-20 17:24:46,502 :DEBUG :demo_pytests.test_logging :a debug statement is executed
+2021-02-20 17:24:46,502 :INFO :demo_pytests.test_logging :Information statement
+2021-02-20 17:24:46,502 :WARNING :demo_pytests.test_logging :Something is in warning mode
+2021-02-20 17:24:46,502 :ERROR :demo_pytests.test_logging :A major error has happened
+2021-02-20 17:24:46,502 :CRITICAL :demo_pytests.test_logging :Critical issue
+2021-02-20 17:26:44,747 :INFO :demo_pytests.BaseClass :Rahul
+2021-02-20 17:26:44,748 :INFO :demo_pytests.BaseClass :rehulshettyacademy.com
+2021-02-20 17:29:24,521 :INFO :demo_pytests.BaseClass :Rahul
+2021-02-20 17:29:24,522 :INFO :demo_pytests.BaseClass :rehulshettyacademy.com
+2021-02-20 17:30:36,449 :INFO :demo_pytests.BaseClass :Rahul
+2021-02-20 17:30:36,449 :INFO :demo_pytests.BaseClass :rehulshettyacademy.com
+2021-02-20 17:31:56,175 :INFO :demo_pytests.BaseClass :Rahul
+2021-02-20 17:31:56,175 :INFO :demo_pytests.BaseClass :rehulshettyacademy.com
+2021-02-20 17:40:35,651 :INFO :demo_pytests.BaseClass :Rahul
+2021-02-20 17:40:35,651 :INFO :demo_pytests.BaseClass :rehulshettyacademy.com
+2021-02-20 17:42:42,673 :INFO :demo_pytests.BaseClass :Rahul
+2021-02-20 17:42:42,673 :INFO :demo_pytests.BaseClass :rehulshettyacademy.com
+2021-02-20 17:44:45,620 :INFO :demo_pytests.BaseClass :Rahul
+2021-02-20 17:44:45,620 :INFO :demo_pytests.BaseClass :rehulshettyacademy.com
+2021-02-20 17:45:22,965 :INFO :test_editProfile :Rahul
+2021-02-20 17:45:22,965 :INFO :test_editProfile :rehulshettyacademy.com

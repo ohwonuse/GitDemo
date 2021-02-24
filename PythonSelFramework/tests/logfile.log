@@ -1,0 +1,75 @@
+2021-02-23 18:20:04,230 :INFO :test_e2e :getting all the product titles
+2021-02-23 18:20:04,446 :INFO :test_e2e :Entering country name as ind
+2021-02-23 18:20:09,901 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-23 18:24:03,121 :INFO :test_e2e :getting all the product titles
+2021-02-23 18:25:01,309 :INFO :test_e2e :getting all the product titles
+2021-02-23 18:25:01,496 :INFO :test_e2e :Entering country name as ind
+2021-02-23 18:25:06,968 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-23 18:28:07,641 :INFO :test_e2e :getting all the product titles
+2021-02-23 18:28:07,812 :INFO :test_e2e :Entering country name as ind
+2021-02-23 18:28:13,297 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-23 18:29:09,400 :INFO :test_e2e :getting all the product titles
+2021-02-23 18:29:09,558 :INFO :test_e2e :Entering country name as ind
+2021-02-23 18:29:14,990 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-23 18:29:58,475 :INFO :test_e2e :getting all the product titles
+2021-02-23 18:29:58,636 :INFO :test_e2e :Entering country name as ind
+2021-02-23 18:30:04,069 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-23 18:30:46,322 :INFO :test_e2e :getting all the product titles
+2021-02-23 18:30:46,488 :INFO :test_e2e :Entering country name as ind
+2021-02-23 18:30:51,952 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-23 18:33:44,299 :INFO :test_formSubmission :first name is Rahul
+2021-02-23 18:33:44,860 :INFO :test_formSubmission :first name is Ashika
+2021-02-23 18:33:44,860 :INFO :test_formSubmission :first name is Ashika
+2021-02-23 18:33:50,452 :INFO :test_e2e :getting all the product titles
+2021-02-23 18:33:50,626 :INFO :test_e2e :Entering country name as ind
+2021-02-23 18:33:56,071 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-23 21:12:51,317 :INFO :test_formSubmission :first name is Rahul
+2021-02-23 21:12:51,870 :INFO :test_formSubmission :first name is Ashika
+2021-02-23 21:12:51,870 :INFO :test_formSubmission :first name is Ashika
+2021-02-23 21:12:57,675 :INFO :test_e2e :getting all the product titles
+2021-02-23 21:12:57,836 :INFO :test_e2e :Entering country name as ind
+2021-02-23 21:13:03,262 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-23 21:22:05,748 :INFO :test_formSubmission :first name is Rahul
+2021-02-23 21:22:06,334 :INFO :test_formSubmission :first name is Ashika
+2021-02-23 21:22:06,334 :INFO :test_formSubmission :first name is Ashika
+2021-02-23 21:22:12,179 :INFO :test_e2e :getting all the product titles
+2021-02-23 21:22:12,347 :INFO :test_e2e :Entering country name as ind
+2021-02-23 21:22:17,730 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-24 11:06:05,604 :INFO :test_formSubmission :first name is Rahul
+2021-02-24 11:06:06,173 :INFO :test_formSubmission :first name is Ashika
+2021-02-24 11:06:06,173 :INFO :test_formSubmission :first name is Ashika
+2021-02-24 11:06:11,689 :INFO :test_e2e :getting all the product titles
+2021-02-24 11:06:11,875 :INFO :test_e2e :Entering country name as ind
+2021-02-24 11:06:17,317 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-24 11:21:50,664 :INFO :test_formSubmission :first name is Rahul
+2021-02-24 11:21:51,237 :INFO :test_formSubmission :first name is Ashika
+2021-02-24 11:21:51,237 :INFO :test_formSubmission :first name is Ashika
+2021-02-24 11:21:57,268 :INFO :test_e2e :getting all the product titles
+2021-02-24 11:21:57,471 :INFO :test_e2e :Entering country name as ind
+2021-02-24 11:22:02,916 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-24 11:23:38,485 :INFO :test_formSubmission :first name is Rahul
+2021-02-24 11:23:41,258 :INFO :test_formSubmission :first name is Ashika
+2021-02-24 11:23:41,258 :INFO :test_formSubmission :first name is Ashika
+2021-02-24 11:23:55,737 :INFO :test_e2e :getting all the product titles
+2021-02-24 11:23:56,337 :INFO :test_e2e :Entering country name as ind
+2021-02-24 11:24:02,301 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-24 11:28:50,748 :INFO :test_formSubmission :first name is Rahul
+2021-02-24 11:28:51,494 :INFO :test_formSubmission :first name is Ashika
+2021-02-24 11:28:51,494 :INFO :test_formSubmission :first name is Ashika
+2021-02-24 11:28:57,357 :INFO :test_e2e :getting all the product titles
+2021-02-24 11:28:57,560 :INFO :test_e2e :Entering country name as ind
+2021-02-24 11:29:03,022 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-24 14:28:07,944 :INFO :test_formSubmission :first name is Rahul
